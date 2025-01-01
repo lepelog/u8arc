@@ -4,6 +4,7 @@ version = "1.0.0"
 edition = "2021"
 license = "MIT"
 description = "Implementation of Nintendo's U8 archive format, found in Skyward Sword for example"
+repository = "https://github.com/lepelog/u8arc"
 
 [dependencies]
 binrw = "0.14.1"
