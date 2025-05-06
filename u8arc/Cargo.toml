@@ -7,5 +7,5 @@ description = "Implementation of Nintendo's U8 archive format, found in Skyward 
 repository = "https://github.com/lepelog/u8arc"
 
 [dependencies]
-binrw = "0.14.1"
+binrw = "0.15.0"
 thiserror = "2.0.9"
